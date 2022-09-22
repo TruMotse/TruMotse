@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TruMotse
 - 👀 I’m interested in .Net 6
-- 🌱 I’m currently learning C# 8.0 and .Net Core 3.0
+- 🌱 I’m currently learning C# 10 and .Net 6, and Java 17
 - 💞️ I’m looking to collaborate on international projects
 - 📫 How to reach me at trumotse@gmail.com
 
